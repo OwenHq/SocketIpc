@@ -1,1 +1,0 @@
-// XlDiagTool.h
