@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XlDiagTool", "XlDiagTool\XlDiagTool.vcproj", "{36D2BB34-646F-41C6-B2DD-785189D4929D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InjectModule", "InjectModule\InjectModule.vcproj", "{B0CBA13C-F69F-41F5-B477-4C95F353E77F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketIPC", "SocketIPC\SocketIPC.vcproj", "{536FDF12-CE50-46A4-8292-AEB758B64D8F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestSocketIPCServer", "TestSocketIPCServer\TestSocketIPCServer.vcproj", "{FA5FD811-3E5B-458B-A72C-2FFB26048545}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestSocketIPCClient", "TestSocketIPCClient\TestSocketIPCClient.vcproj", "{49AB6405-73AE-4E13-AF42-2232C8D59A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D2BB34-646F-41C6-B2DD-785189D4929D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36D2BB34-646F-41C6-B2DD-785189D4929D}.Debug|Win32.Build.0 = Debug|Win32
+		{36D2BB34-646F-41C6-B2DD-785189D4929D}.Release|Win32.ActiveCfg = Release|Win32
+		{36D2BB34-646F-41C6-B2DD-785189D4929D}.Release|Win32.Build.0 = Release|Win32
+		{B0CBA13C-F69F-41F5-B477-4C95F353E77F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0CBA13C-F69F-41F5-B477-4C95F353E77F}.Debug|Win32.Build.0 = Debug|Win32
+		{B0CBA13C-F69F-41F5-B477-4C95F353E77F}.Release|Win32.ActiveCfg = Release|Win32
+		{B0CBA13C-F69F-41F5-B477-4C95F353E77F}.Release|Win32.Build.0 = Release|Win32
+		{536FDF12-CE50-46A4-8292-AEB758B64D8F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{536FDF12-CE50-46A4-8292-AEB758B64D8F}.Debug|Win32.Build.0 = Debug|Win32
+		{536FDF12-CE50-46A4-8292-AEB758B64D8F}.Release|Win32.ActiveCfg = Release|Win32
+		{536FDF12-CE50-46A4-8292-AEB758B64D8F}.Release|Win32.Build.0 = Release|Win32
+		{FA5FD811-3E5B-458B-A72C-2FFB26048545}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FA5FD811-3E5B-458B-A72C-2FFB26048545}.Debug|Win32.Build.0 = Debug|Win32
+		{FA5FD811-3E5B-458B-A72C-2FFB26048545}.Release|Win32.ActiveCfg = Release|Win32
+		{FA5FD811-3E5B-458B-A72C-2FFB26048545}.Release|Win32.Build.0 = Release|Win32
+		{49AB6405-73AE-4E13-AF42-2232C8D59A36}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49AB6405-73AE-4E13-AF42-2232C8D59A36}.Debug|Win32.Build.0 = Debug|Win32
+		{49AB6405-73AE-4E13-AF42-2232C8D59A36}.Release|Win32.ActiveCfg = Release|Win32
+		{49AB6405-73AE-4E13-AF42-2232C8D59A36}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
